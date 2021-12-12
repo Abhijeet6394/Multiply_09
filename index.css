@@ -1,0 +1,13 @@
+body{
+    background-color:#cbe6ae;
+    margin: 0px;
+    padding: 0px;
+}
+input{
+    display: block;
+    margin: 4px;
+    padding: 4px;
+}
+.container{
+    margin: 100px 600px;
+}
